@@ -1,5 +1,3 @@
-MICROSERVICIOS EN JAVA CON AWS
-=================================================================
 #Connect kafka 
 spring.kafka.template.default-topic= transaction-events
 spring.kafka.consumer.bootstrap-servers=localhost:9092
